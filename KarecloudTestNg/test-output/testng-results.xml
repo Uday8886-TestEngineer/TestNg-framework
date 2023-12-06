@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-11T12:12:14 IST" name="Default suite" finished-at="2023-11-11T12:12:14 IST" duration-ms="145">
+    <groups>
+    </groups>
+    <test started-at="2023-11-11T12:12:14 IST" name="Default test" finished-at="2023-11-11T12:12:14 IST" duration-ms="145">
+      <class name="TestngXmls.Demo1">
+        <test-method is-config="true" signature="demo()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo" finished-at="2023-11-11T12:12:14 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method is-config="true" signature="demo1()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo1" finished-at="2023-11-11T12:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method is-config="true" signature="demo2()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo2" finished-at="2023-11-11T12:12:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method is-config="true" signature="demo3()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo3" finished-at="2023-11-11T12:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method signature="demo4()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo4" finished-at="2023-11-11T12:12:14 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+        <test-method is-config="true" signature="demo13()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo13" finished-at="2023-11-11T12:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method is-config="true" signature="demo3()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo3" finished-at="2023-11-11T12:12:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method signature="demo5()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo5" finished-at="2023-11-11T12:12:14 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo5 -->
+        <test-method is-config="true" signature="demo13()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo13" finished-at="2023-11-11T12:12:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method is-config="true" signature="demo3()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo3" finished-at="2023-11-11T12:12:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method signature="demo6()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo6" finished-at="2023-11-11T12:12:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo6 -->
+        <test-method is-config="true" signature="demo13()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo13" finished-at="2023-11-11T12:12:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method is-config="true" signature="demo3()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo3" finished-at="2023-11-11T12:12:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method signature="demo8()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo8" finished-at="2023-11-11T12:12:14 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo8 -->
+        <test-method is-config="true" signature="demo13()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo13" finished-at="2023-11-11T12:12:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method is-config="true" signature="demo10()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo10" finished-at="2023-11-11T12:12:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo10 -->
+        <test-method is-config="true" signature="demo11()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo11" finished-at="2023-11-11T12:12:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo11 -->
+        <test-method is-config="true" signature="demo14()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo14" finished-at="2023-11-11T12:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo14 -->
+        <test-method is-config="true" signature="demo7()[pri:0, instance:TestngXmls.Demo1@248e319b]" started-at="2023-11-11T12:12:14 IST" name="demo7" finished-at="2023-11-11T12:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo7 -->
+      </class> <!-- TestngXmls.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
